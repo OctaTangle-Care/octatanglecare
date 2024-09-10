@@ -1,0 +1,35 @@
+
+
+
+## Problem Statement:
+
+In today's world, a multitude of diseases affect humans, making the cost of treatment and necessary resources unaffordable for many families, particularly those who are middle-class or lower-middle-class. To address this issue, we introduce a solution called "OCTATANGLE-CARE".
+
+## Sub Operations/Tasks in OCTATANGLE-CARE:
+
+1. **Connecting Patients and Donors**:
+   - Facilitate connections between patients and donors for resources like money, blood, and more.
+
+2. **Collaborating with Blood Banks and Medical Institutions**:
+   - Partner with blood banks and other medical-related banks to provide essential services to patients.
+
+3. **Partnering with Trusts**:
+   - Collaborate with various trusts to extend help to patients.
+
+4. **Patient Verification and Registration**:
+   - Verify patients both online and offline to ensure authenticity before registration.
+   - Process requests within half a day, followed by slot allocation based on requirements.
+
+5. **Introducing "CARE-COINS"**:
+   - Reward donors with coins based on the type of donation (money, blood, etc.).
+   - New users receive bonus coins.
+   - Donors can use CARE-COINS to help patients indirectly through collaborations with trusts.
+
+6. **"SAVE THE SAVIOR" Feature**:
+   - Notify patients to help their previous donors in case the donors face similar health issues.
+
+7. **"CARE-STORAGE" Feature**:
+   - A virtual bank storing donated money, to be used for patients in urgent need, based on conditions like highest coins, severity, and urgency.
+
+8. **Providing Instant Loans to Patients**:
+   - Enable a feature for registered patients to receive instant loans if resources are not available for an extended period. The loan amount is set automatically based on the patient's needs.
